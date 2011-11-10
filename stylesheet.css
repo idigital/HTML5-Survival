@@ -1,0 +1,13 @@
+#game {
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+
+#score {
+    font-size:24px;
+    font-weight:bold;
+    position:absolute;
+    right:25px;
+    top:25px;
+}
